@@ -82,6 +82,8 @@ namespace Tarea_3
             txtedad.Text = "";
             txttelefono.Text = "";
             dataGridView1.CurrentCell = null;
+
+
         }
 
         private void dataGridView1_SelectionChanged(object sender, EventArgs e)
