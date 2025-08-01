@@ -121,10 +121,8 @@ namespace Tarea_3
 }
 //Crear Formulario de registro
 
-<<<<<<< HEAD
-
-
 //Formulario De user-dashboard fue creado 
-=======
+
 //El Formulario del crud fue creado -- Estos comentarios son para realizar los commit en la nueva rama
->>>>>>> 995b62f5ec84e348834d93d2c5ff03748c69e88c
+
+//Se Reparo falla en la fecha ya que estaba mal programada
