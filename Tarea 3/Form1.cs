@@ -62,7 +62,6 @@ namespace Tarea_3
                 }
                     Limpiar();
                     refrescarpantalla(); 
-                
         }
         
 
