@@ -1,0 +1,11 @@
+Create Database Tarea3;
+
+use Tarea3;
+
+create table Persona(
+id int primary key identity (1,1),
+Nombre varchar (50),
+Edad int,
+Telefono varchar (10)
+)
+select * From Persona
